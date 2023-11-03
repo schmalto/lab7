@@ -33,7 +33,6 @@ echo "${LIGHT_CYAN}[Setup]${NC} Installed all Libraries"
 echo "${LIGHT_CYAN}[Setup]${NC} Installing Git LFS"
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
 sudo apt-get install git-lfs -y
-cd lab7/
 git lfs pull
 echo "${LIGHT_CYAN}[Setup]${NC} Pulled large files"
 
