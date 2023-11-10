@@ -28,6 +28,7 @@ pip install librosa
 pip install numpy
 pip install scikit-image
 pip install scipy
+pip install tqdm
 # pip install ipykernel
 echo "${LIGHT_CYAN}[Setup]${NC} Installed all Libraries"
 #echo "${LIGHT_CYAN}[Setup]${NC} Installing Git LFS"
