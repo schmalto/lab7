@@ -34,10 +34,10 @@ echo "${LIGHT_CYAN}[Setup]${NC} Installed all Libraries"
 
 echo "${LIGHT_CYAN}[Setup]${NC} Getting data"
 pip install gdown
-gdown --fuzzy https://drive.google.com/file/d/1C5TzFzpz5Oy5B88qpfpugjXI9wLYSt2T/view?usp=drive_link
 gdown --fuzzy https://drive.google.com/file/d/14nGe66azXtqPYCkJFpE8owwXptedssWH/view?usp=drive_link
 gdown --fuzzy https://drive.google.com/file/d/1nJTuSfKR22HAcdwsonwIbRwnOsNwr_-F/view?usp=drive_link
 gdown --fuzzy https://drive.google.com/file/d/1NvLhs7B41sHwi7qeKhm8BD3jF8hcmbiF/view?usp=drive_link
+gdown --fuzzy https://drive.google.com/file/d/1uzEmkVZmo-3Lc1WyeVsuskX4dr1Mdqk7/view?usp=drive_link
 echo "${LIGHT_CYAN}[Setup]${NC} Got data"
 
 #echo "${LIGHT_CYAN}[Setup]${NC} Installing Git LFS"
